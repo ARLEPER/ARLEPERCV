@@ -1,0 +1,45 @@
+
+
+body{
+    margin: 0px;
+    padding: 5PX;
+    
+    
+    
+    background-color:#C6C7C4;
+    
+}
+
+
+.header{
+width: 100%;
+height: 200px;
+background-color:#5E7CE2;
+
+}
+
+.header .Nombre{
+
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 40%;
+    font-weight: bolder;
+    font-size:large;
+    font-family: 'Oswald', sans-serif;
+    margin-top: -7%;
+
+}
+
+.header .img{
+    position: relative;
+    left: 30%;
+    bottom: -30%;
+}
+
+.Cuerpo{
+
+     font-family: 'Oswald', sans-serif;
+    
+     
+}
